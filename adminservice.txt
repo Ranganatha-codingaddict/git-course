@@ -1,3 +1,4 @@
 addand remove users
 change the roles
 manage the database
+cloing the conncection
