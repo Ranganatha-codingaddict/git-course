@@ -1,7 +1,7 @@
 addand remove users
 change the roles
 manage the database
-cloing the conncection
+cloing the database conncection
 
 change1
 
