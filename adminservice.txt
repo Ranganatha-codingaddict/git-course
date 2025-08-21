@@ -1,7 +1,7 @@
 addand remove users
 change the roles
 manage the database
-cloing the database conncection
+cloing the oracle database conncection
 
 change1
 
